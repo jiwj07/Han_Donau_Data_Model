@@ -1,0 +1,13 @@
+No, river, stream, direction,X1 DO,X2 pH,X3 TDS,X4 HPD,Y AQI
+1,Han,upstream,north,6.918,7.748,95.899,1157.500,76.000
+2,Han,upstream,south,6.975,7.781,103.831,180.000,67.000
+3,Han,midstream,north,6.818,7.560,83.912,14755.500,71.000
+4,Han,midstream,south,6.799,7.740,102.473,11353.500,77.000
+5,Han,downstream,north,6.713,7.496,110.642,15262.000,60.000
+6,Han,downstream,south,6.660,7.567,117.284,15296.500,63.000
+7,Donau,upstream,north,7.628,8.455,193.318,1390.000,20.000
+8,Donau,upstream,south,7.709,8.352,196.628,365.000,33.000
+9,Donau,midstream,north,7.476,8.646,154.622,2121.500,26.000
+10,Donau,midstream,south,7.549,8.540,191.541,5680.500,33.000
+11,Donau,downstream,north,7.360,8.570,192.507,65.500,32.000
+12,Donau,downstream,south,7.292,8.643,188.108,81.500,21.000
