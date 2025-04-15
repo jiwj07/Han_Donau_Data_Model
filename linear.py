@@ -39,6 +39,13 @@ X_test_scaled = scaler.transform(X_test)
 
 # initialize Linear Regression
 linear = LinearRegression()
+linear.fit(X_train_scaled,y_train)
+y_pred = linear.predict(X_test_scaled)
+print()
+print("None", "PREDICTIONS")
+print(y_pred)
+mse = mean_squared_error(y_test, y_pred)
+mae = mean_absolute_error(y_test, y_pred)
 
 # results + 0-layer feature selection
 results = []
