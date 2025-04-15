@@ -1,4 +1,4 @@
-# LINEAR + 2 Feature Selection
+# Linear Regression
 
 # importing modules and packages
 import pandas as pd 
